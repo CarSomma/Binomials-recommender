@@ -1,8 +1,8 @@
 # Binomials-recommender
----
+
 This is a movie recommender build by Binomials based on a random recommender algoritm
 
-### Installation
+## Installation
 ---
 Type in the terminal:
 ```bash
@@ -13,9 +13,17 @@ or
 ```bash
 git clone https://github.com/CarSomma/Binomials-recommender.git
 ```
-### Usage
+## Usage
 ---
 Open the terminal/Git-Bash and type:
 ```bash
 python recommenders.py
 ```
+
+## Contributing
+---
+
+Describe how developers can contribute to your project
+
+## License
+[Mit](https://choosealicense.com/licenses/mit/)
