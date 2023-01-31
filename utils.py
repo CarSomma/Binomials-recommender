@@ -16,5 +16,6 @@ MOVIES = [
     "Assassins",
     "God's Hand",
     "The Great Beauty",
-    "Once Upon Time in America"
+    "Once Upon Time in America",
+    "Once Upon Time in the West"
 ]
