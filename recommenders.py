@@ -21,3 +21,4 @@ def get_random_recommendations(n):
 if __name__ == "__main__":
     top_3 = get_random_recommendations(3)
     print(top_3)
+    hello_recommender()
